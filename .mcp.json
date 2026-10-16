@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mystreetdata-usa": {
+      "type": "http",
+      "url": "https://mystreetdata.com/api/mcp"
+    }
+  }
+}
